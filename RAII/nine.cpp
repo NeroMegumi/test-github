@@ -34,5 +34,6 @@ std::string BuyTransaction::CreateLogString(const std::string& logInfo) {
 
 int main() {
     BuyTransaction b("Hello, world!");
+
     return 0;
 }
