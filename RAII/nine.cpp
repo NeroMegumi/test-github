@@ -35,5 +35,7 @@ std::string BuyTransaction::CreateLogString(const std::string& logInfo) {
 int main() {
     BuyTransaction b("Hello, world!");
     BuyTransaction b("Test Branch function");
+    BuyTransaction b("Test Branch function");
+    BuyTransaction b("Test Branch function");
     return 0;
 }
